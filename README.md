@@ -1,2 +1,2 @@
-# 3xitlight-fonts
-3xitlight-fonts
+# 3xitlight-awesome-fonts
+3xitlight-awesome-fonts
